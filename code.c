@@ -15,8 +15,8 @@ int main()
 
     int h=0, m=0, s=0;
 
-    printf("************STOP WATCH************\n");
-    printf("Developed By: NITUN KRISHNA BISWAS\n");
+    printf("************STOPWATCH************\n");
+    printf("Developed By : NITUN KRISHNA BISWAS\n");
     printf("\n");
 
     while(1)
