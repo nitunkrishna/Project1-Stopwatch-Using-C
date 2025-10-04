@@ -49,7 +49,7 @@ int main()
             As, 60 Minutes = 1 Hour
             So, when 60 minutes will pass then the variable 'h' will increase
             */
-            m=0;//After increasing the 'm' the 's' will again start counting from 0
+            m=0;//After increasing the 'h' the 'm' will again start counting from 0
         }
     }
     return 0;
